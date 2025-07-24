@@ -7,8 +7,8 @@ In this assignment, let's build the Sunrise Avenue page by applying the concepts
 
 Refer to the below images.
 
-<img width="453" height="587" alt="image" src="https://github.com/user-attachments/assets/1bd654aa-96c8-4133-a462-7381e2593855" />
-
+[<img width="453" height="587" alt="image" src="https://github.com/user-attachments/assets/1bd654aa-96c8-4133-a462-7381e2593855" />
+](https://new-assets.ccbp.in/frontend/content/static-website/flats-output-1.gif)
 
 Design Files:
 
