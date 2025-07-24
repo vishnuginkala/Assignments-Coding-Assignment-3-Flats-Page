@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-background {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-card {
+    background-color: #ffffff;
+    height: 30vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding: 30px;
+}
+
+.home-card-heading {
+    font-size: 20px;
+    color: #f19116;
+    font-family: "bree Serif";
+}
+
+.home-card-description {
+    font-size: 12px;
+    color: #7b8794;
+    font-family: "bree Serif";
+}
+
+.home-card-button {
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 3px;
+    height: 25px;
+    width: 70px;
+}
+
+.fl-background {
+    background-color: #222222;
+    font-family: "Bree Serif";
+    padding: 15px;
+}
+
+.fl-heading {
+    font-size: 23px;
+    color: #f19116;
+}
+
+.fl-card-image {
+    height: 150px;
+    width: 65px;
+    margin-right: 10px;
+}
+
+.fl-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.fl-card-heading {
+    font-size: 25px;
+    color: #0f0e46;
+}
+
+.fl-card-description {
+    font-size: 12px;
+    color: #6c6b70;
+}
+
+.detail-image {
+    height: 40vh;
+    width: 100vw;
+}
+
+.detail-card {
+    background-color: #222222;
+    padding: 20px;
+}
+
+.detail-card-location {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.detail-card-heading {
+    font-size: 20px;
+    color: #f19116;
+    font-family: "Bree Serif";
+}
+
+.detail-card-description {
+    font-size: 12px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.padding {
+    margin: 15px;
+    text-align: center;
+}
